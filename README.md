@@ -1,10 +1,19 @@
-# data_structures_and_algorithms
+# Data Structures & Algorithms
 
-## Setup Environment
+## Data Structures
 
-```
-conda env create -f environment.yml
+- Arrays
+- Stacks
+- Queues
+- Linked Lists
+- Trees
+- Tries
+- Graphs
+- Hash Tables
 
-jupyter labextension install @jupyterlab/plotly-extension
-```
+## Algorithms
 
+- Sorting
+- Dynamic Programming
+- BFS + DFS (Searching)
+- Recursion
