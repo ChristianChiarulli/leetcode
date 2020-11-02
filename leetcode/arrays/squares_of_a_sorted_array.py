@@ -9,6 +9,7 @@ def sorted_squares(nums):
 
 
 nums = [-4, -1, 0, 3, 10]
+print(nums)
 
 sorted_squares(nums)
 
