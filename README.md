@@ -1,19 +1,4 @@
-# Data Structures & Algorithms
+# Leetcode Problems
 
-## Data Structures
-
-- Arrays
-- Stacks
-- Queues
-- Linked Lists
-- Trees
-- Tries
-- Graphs
-- Hash Tables
-
-## Algorithms
-
-- Sorting
-- Dynamic Programming
-- BFS + DFS (Searching)
-- Recursion
+Arrays 101 (Finished)
+Linked List (In progress)
