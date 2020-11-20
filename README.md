@@ -1,4 +1,5 @@
 # Leetcode Problems
 
-Arrays 101 (Finished)
-Linked List (In progress)
+- Arrays 101 (Finished)
+
+- Linked List (In progress)
