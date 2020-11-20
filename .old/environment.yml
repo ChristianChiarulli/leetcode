@@ -1,6 +1,0 @@
-name: algos2
-dependencies:
-  - jupyterlab
-  - ipywidgets=7.5
-  - plotly=4.8.1
-  - numpy
