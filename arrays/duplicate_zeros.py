@@ -25,7 +25,6 @@ def duplicate_zeros(arr):
             del arr[len(arr) - 1]
             arr.insert(i, 0)
             i += 2  # so that you skip the 0 you just added
-            continue
         else:
             i += 1
 

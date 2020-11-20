@@ -13,25 +13,26 @@ _num = []
 
 def check_if_exist(arr):
 
-    if arr[0] == 0 and arr[1] == 0:
+    if arr.count(0) > 1:
         return True
 
-    my_dict = {}
+    s = set()
 
     for num in arr:
-        my_dict[2 * num] = None
+        s.add(2 * num)
 
     for num in arr:
-        if num in my_dict.keys() and num != 0:
+        if num in s and num != 0:
             return True
 
     return False
 
 
 # arr = [-2, 0, 10, -19, 4, 6, -8]
-arr = [-2, 0, 10, -19, 4, 6, -8]
+# arr = [-2, 0, 10, -19, 4, 6, -8]
 # arr = [10, 0, 5, 3]
 # arr = [0, 0]
+arr = [2, 3, 3, 0, 0]
 
 check_if_exist(arr)
 
