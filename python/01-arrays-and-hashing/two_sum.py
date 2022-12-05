@@ -1,9 +1,9 @@
 
 def two_sum(nums, target):
-    prevMap = {}  # val -> index
+    map = {}  # val -> index
 
     for i, n in enumerate(nums):
         diff = target - n
-        if diff in prevMap:
-            return [prevMap[diff], i]
-        prevMap[n] = i
+        if diff in map:
+            return [map[diff], i]
+        map[n] = i
