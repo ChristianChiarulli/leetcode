@@ -6,41 +6,43 @@
 
 Here are the top Data Structures with the highest return on investment:
 
-Array (1142 problems)
-String (549)
-Hash Table (392)
-Tree (191)
-Matrix (171)
-Stack (128)
-Heap or Priority Queue (107)
-Graph (102)
-Linked List (69)
-Trie (44)
+- Array (1142 problems)
+- String (549)
+- Hash Table (392)
+- Tree (191)
+- Matrix (171)
+- Stack (128)
+- Heap or Priority Queue (107)
+- Graph (102)
+- Linked List (69)
+- Trie (44)
 
 ## Top Algorithmic Techniques with Best ROI
 
 Here are the top algorithmic techniques with the highest return on investment:
 
-Dynamic Programming (383)
-Sorting (253)
-Greedy (248)
-Binary Search (186)
-Backtracking (91)
-Recursion (44)
-Divide and Conquer (38)
-Top Coding Patterns with Best ROI
+- Dynamic Programming (383)
+- Sorting (253)
+- Greedy (248)
+- Binary Search (186)
+- Backtracking (91)
+- Recursion (44)
+- Divide and Conquer (38)
+
+## Top Coding Patterns with Best ROI
+
 Here are the top coding patterns with the highest return on investment:
 
-Depth First Search (250)
-Breadth First Search(198)
-Binary Search (186)
-Two Pointers (147)
-Sliding Window (72)
-Monotonic Stack (44)
-Union Find (63)
-Memoization (32)
-Topological Sort (28)
-Segment Tree (27)
+- Depth First Search (250)
+- Breadth First Search(198)
+- Binary Search (186)
+- Two Pointers (147)
+- Sliding Window (72)
+- Monotonic Stack (44)
+- Union Find (63)
+- Memoization (32)
+- Topological Sort (28)
+- Segment Tree (27)
 
 ## Best Coding Patterns with Highest ROI
 
